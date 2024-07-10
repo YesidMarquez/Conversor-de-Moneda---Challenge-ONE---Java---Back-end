@@ -1,6 +1,6 @@
 <h1 align="center"> Conversor de Moneda Challenge ONE Java Backend </h1>
+<p>Challenge Back End ONE  Conversor de Moneda, consumiento el api "Exchange Rate API", dado un valor se realiza la conversion sergun la seleccion realizada por el usuario</p>
 
-Challenge Back End ONE  Conversor de Moneda, consumiento el api "Exchange Rate API".
 
 <h3>********* Elija una Opción del Menu *********</h3>
 <ol>
