@@ -3,11 +3,13 @@
 Challenge Back End ONE  Conversor de Moneda, consumiento el api "Exchange Rate API".
 
 ********* Elija una Opción del Menu *********
-1 - Dolar =>> Peso Colombiano
-2 - Peso Colombiano =>> Dolar
-3 - Dolar =>> Real Brasileño
-4 - Real Brasileño =>> Dolar
-5 - Dolar =>> Peso Argentino
-6 - Peso Argentino =>> Dolar
-7 - Salir
+<ol>
+<li> - Dolar =>> Peso Colombiano </li>
+<li> - Peso Colombiano =>> Dolar </li>
+<li> - Dolar =>> Real Brasileño </li>
+<li> - Real Brasileño =>> Dolar </li>
+<li> - Dolar =>> Peso Argentino </li>
+<li> - Peso Argentino =>> Dolar </li>
+<li> - Salir </li>
+</ol>
 
